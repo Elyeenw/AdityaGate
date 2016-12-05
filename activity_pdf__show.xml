@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/activity_horizontal_margin"
+    tools:context="aditya.services.adityagate.PDF_Show"><!--
+
+
+    <WebView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/webView"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true" />
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/progressBar"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:textAlignment="center"
+        android:shadowColor="@android:color/holo_blue_dark"
+        android:shadowDx="0"
+        android:shadowDy="0"
+        android:shadowRadius="2"
+        android:fontFamily="serif-monospace"
+        android:textSize="35sp"
+        android:lineSpacingExtra="8sp"
+        android:textAllCaps="true"
+        android:textColor="@android:color/holo_blue_dark"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Downloading..."
+        android:id="@+id/textView12"
+        android:layout_above="@+id/progressBar"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:fontFamily="serif-monospace"
+        android:textSize="35sp"
+        android:lineSpacingExtra="8sp"
+        android:textAllCaps="true"
+        android:textColor="@android:color/holo_blue_dark"
+        android:id="@+id/textView13"
+        android:layout_below="@+id/progressBar"
+        android:layout_centerHorizontal="true" />-->
+</RelativeLayout>
