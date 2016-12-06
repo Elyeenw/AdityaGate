@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="@string/title_activity_csefragment"
+        android:icon="@drawable/cseicon"
+        android:id="@+id/group_CSE_id"/>
+    <item android:title="@string/title_activity_itfragment"
+        android:icon="@drawable/iticon"
+        android:id="@+id/group_IT_id"/>
+    <item android:title="@string/title_activity_eeefragment"
+        android:icon="@drawable/eeeicon"
+        android:id="@+id/group_EEE_id"/>
+    <item android:title="@string/title_activity_ecefragment"
+        android:icon="@drawable/eceicon"
+        android:id="@+id/group_ECE_id"/>
+    <item android:title="@string/title_activity_civilfragment"
+        android:icon="@drawable/civilicon"
+        android:id="@+id/group_CIVIL_id"/>
+    <item android:title="@string/title_activity_mechfragment"
+        android:icon="@drawable/mechicon"
+        android:id="@+id/group_MECH_id"/>
+</menu>

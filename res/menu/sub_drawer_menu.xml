@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group_CSE_id">
+        <item android:title="CSE">
+            <menu>
+                <item android:title="Question Papers"
+                    android:id="@+id/cse_question"/>
+                <item android:title="Key"
+                    android:id="@+id/cse_key"/>
+                <item android:title="Materials"
+                    android:id="@+id/cse_materials"/>
+                <item android:title="Resource Person"
+                    android:id="@+id/cse_resources"/>
+            </menu>
+        </item>
+    </group>
+    <group android:id="@+id/group_IT_id">
+        <item android:title="IT">
+            <item android:title="Question Papers"
+                android:id="@+id/it_question"/>
+            <item android:title="Key"
+                android:id="@+id/it_key"/>
+            <item android:title="Materials"
+                android:id="@+id/it_materials"/>
+            <item android:title="Resource Person"
+                android:id="@+id/it_resources"/>
+        </item>
+    </group>
+    <group android:id="@+id/group_EEE_id">
+        <item android:title="EEE">
+            <item android:title="Question Papers"
+                android:id="@+id/eee_question"/>
+            <item android:title="Key"
+                android:id="@+id/eee_key"/>
+            <item android:title="Materials"
+                android:id="@+id/eee_materials"/>
+            <item android:title="Resource Person"
+                android:id="@+id/eee_resources"/>
+        </item>
+    </group>
+    <group android:id="@+id/group_ECE_id">
+        <item android:title="ECE">
+            <item android:title="Question Papers"
+                android:id="@+id/ece_question"/>
+            <item android:title="Key"
+                android:id="@+id/ece_key"/>
+            <item android:title="Materials"
+                android:id="@+id/ece_materials"/>
+            <item android:title="Resource Person"
+                android:id="@+id/ece_resources"/>
+        </item>
+    </group>
+    <group android:id="@+id/group_CIVIL_id">
+        <item android:title="CIVIL">
+            <item android:title="Question Papers"
+                android:id="@+id/civil_question"/>
+            <item android:title="Key"
+                android:id="@+id/civil_key"/>
+            <item android:title="Materials"
+                android:id="@+id/civil_materials"/>
+            <item android:title="Resource Person"
+                android:id="@+id/civil_resources"/>
+        </item>
+    </group>
+    <group android:id="@+id/group_MECH_id">
+        <item android:title="MECH">
+            <item android:title="Question Papers"
+                android:id="@+id/mech_question"/>
+            <item android:title="Key"
+                android:id="@+id/mech_key"/>
+            <item android:title="Materials"
+                android:id="@+id/mech_materials"/>
+            <item android:title="Resource Person"
+                android:id="@+id/mech_resources"/>
+        </item>
+    </group>
+</menu>
